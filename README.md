@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola a tod@s 👋
+
+Soy Diego Faúndez, Ingeniero en Informática 👨‍💻, actualmente me desempeño como Data Analyst en Cargill 🌿 en donde pertenezco al área BI en la cual nos encargamos de crear y mantener diversos reportes 📊 para todas las áreas de la compañía.
+
+Cursé la carrera de Data Science y en esta plataforma iré subiendo proyectos realizados en la academia y personales.
+
+Siganme en [LinkedIn](https://www.linkedin.com/in/dfaundezf/)
+
 
 <!--
 **dfaundezf/dfaundezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
